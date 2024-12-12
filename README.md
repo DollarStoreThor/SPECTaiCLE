@@ -37,12 +37,12 @@ Predicted Z-score Rating for User(254) on Book(82273) "Red Storm Rising Tom Clan
 
 # Item - Item Based Recomendations
 
-Predicted Similar Books for Book(86799 - Life of Pi, Yann Martel) Based on Top(5) Similar Books ---> ['The God of Small Things Arundhati Roy', 'The reawakening Primo Levi', "Bluebeard's Egg Margaret Atwood", 'The Hundred and One Dalmatians Dodie Smith', 'The Secret History Donna Tartt']
+Predicted Similar Books for Book(86799 - **Life of Pi, Yann Martel**) Based on Top(5) Similar Books ---> ['The God of Small Things Arundhati Roy', 'The reawakening Primo Levi', "Bluebeard's Egg Margaret Atwood", 'The Hundred and One Dalmatians Dodie Smith', 'The Secret History Donna Tartt']
 
-Predicted Similar Books for Book(12372 - A Tale of Two Cities, Charles Dickens) Based on Top(5) Similar Books ---> ['Crowned Heads Thomas Tryon', 'Metamorphoses (Penguin Classics ed.) Ovid', 'Scarlet and Black (Penguin Classics) Stendhal', 'MUSTANG WILD SPIRIT OF THE WEST (The Marguerite Henry horseshore library) Marguerite Henry', 'To Kill a Mockingbird Harper Lee']
+Predicted Similar Books for Book(12372 - **A Tale of Two Cities, Charles Dickens**) Based on Top(5) Similar Books ---> ['Crowned Heads Thomas Tryon', 'Metamorphoses (Penguin Classics ed.) Ovid', 'Scarlet and Black (Penguin Classics) Stendhal', 'MUSTANG WILD SPIRIT OF THE WEST (The Marguerite Henry horseshore library) Marguerite Henry', 'To Kill a Mockingbird Harper Lee']
 
-Predicted Similar Books for Book(18175 - Me Talk Pretty One Day, David Sedaris) Based on Top(5) Similar Books ---> ['Scarlet Feather Maeve Binchy', 'Staying Fat for Sarah Byrnes Chris Crutcher', 'Revelation Space Alastair Reynolds', 'If Chins Could Kill: Confessions of a B Movie Actor Bruce Campbell', 'The Jungle (Modern Classics S.) Upton Sinclair']
+Predicted Similar Books for Book(18175 - **Me Talk Pretty One Day, David Sedaris**) Based on Top(5) Similar Books ---> ['Scarlet Feather Maeve Binchy', 'Staying Fat for Sarah Byrnes Chris Crutcher', 'Revelation Space Alastair Reynolds', 'If Chins Could Kill: Confessions of a B Movie Actor Bruce Campbell', 'The Jungle (Modern Classics S.) Upton Sinclair']
 
-Predicted Similar Books for Book(43594 - Heart of Darkness, Joseph Conrad) Based on Top(5) Similar Books ---> ['The GREAT GATSBY (A Scribner Classic) F. Scott Fitzgerald', 'Girl with a Pearl Earring Tracy Chevalier', 'Franny and Zooey J.D. Salinger', 'Warrior Marks: Female Genital Mutilation and the Sexual Blinding of Women Alice Walker', 'Burmese Days George Orwell']
+Predicted Similar Books for Book(43594 - **Heart of Darkness, Joseph Conrad**) Based on Top(5) Similar Books ---> ['The GREAT GATSBY (A Scribner Classic) F. Scott Fitzgerald', 'Girl with a Pearl Earring Tracy Chevalier', 'Franny and Zooey J.D. Salinger', 'Warrior Marks: Female Genital Mutilation and the Sexual Blinding of Women Alice Walker', 'Burmese Days George Orwell']
 
-Predicted Similar Books for Book(78006 - The Stand, Stephen King) Based on Top(5) Similar Books ---> ['The Regulators Richard Bachman', "Every Day's a Holiday : Amusing Rhymes for Happy Times Dean Koontz", 'The Right Hand of Evil John Saul', 'TickTock Dean R. Koontz', 'Blue Rose Peter Straub']
+Predicted Similar Books for Book(78006 - **The Stand, Stephen King**) Based on Top(5) Similar Books ---> ['The Regulators Richard Bachman', "Every Day's a Holiday : Amusing Rhymes for Happy Times Dean Koontz", 'The Right Hand of Evil John Saul', 'TickTock Dean R. Koontz', 'Blue Rose Peter Straub']
