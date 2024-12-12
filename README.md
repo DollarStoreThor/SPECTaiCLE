@@ -19,11 +19,11 @@ Virtualize your Library
 ![User to User Based SVD Colabrative Filtering Cosine Similarity](https://github.com/user-attachments/assets/269257aa-cb0d-4a3f-9375-28d019bd6059)
 
 # User(254) Current Average Book Rating, Standard Dev: (0.024433771486981795, 0.27476619621377)
-Predicted Z-score Rating for User(254) on Book(37244) "Pride and Prejudice Jane Austen" Based on Top(10) Similar Users ---> 0.3441698062429958
-Predicted Z-score Rating for User(254) on Book(31406) "To Kill a Mockingbird Harper Lee" Based on Top(10) Similar Users ---> 0.5661767373741514
-Predicted Z-score Rating for User(254) on Book(40809) "Plain Truth Jodi Picoult" Based on Top(10) Similar Users ---> -0.11804134545629512
-Predicted Z-score Rating for User(254) on Book(28608) "Animal Farm George Orwell" Based on Top(10) Similar Users ---> 0.3441698062429958
-Predicted Z-score Rating for User(254) on Book(25360) "The Great Gatsby F. Scott Fitzgerald" Based on Top(10) Similar Users ---> 0.45335354286487556
-Predicted Z-score Rating for User(254) on Book(82273) "Red Storm Rising Tom Clancy" Based on Top(10) Similar Users ---> -0.08528622446973119
+Predicted Z-score Rating for User(254) on Book(37244) "Pride and Prejudice Jane Austen" Based on Top(10) Similar Users ---> 0.3441698062429958 \
+Predicted Z-score Rating for User(254) on Book(31406) "To Kill a Mockingbird Harper Lee" Based on Top(10) Similar Users ---> 0.5661767373741514 \
+Predicted Z-score Rating for User(254) on Book(40809) "Plain Truth Jodi Picoult" Based on Top(10) Similar Users ---> -0.11804134545629512 \ 
+Predicted Z-score Rating for User(254) on Book(28608) "Animal Farm George Orwell" Based on Top(10) Similar Users ---> 0.3441698062429958 \
+Predicted Z-score Rating for User(254) on Book(25360) "The Great Gatsby F. Scott Fitzgerald" Based on Top(10) Similar Users ---> 0.45335354286487556 \
+Predicted Z-score Rating for User(254) on Book(82273) "Red Storm Rising Tom Clancy" Based on Top(10) Similar Users ---> -0.08528622446973119 \
 
 ![Item to Item Based SVD Colabrative Filtering Cosine Similarity](https://github.com/user-attachments/assets/ed4962d2-1fa0-486b-b828-6cb375e1cfef)
