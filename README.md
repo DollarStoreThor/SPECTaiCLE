@@ -17,7 +17,8 @@ Virtualize your Library
 ![User-Item Before SVD Conversions](https://github.com/user-attachments/assets/371a6d1b-c481-4f4a-896f-bbad09cea67c)
 ![UBCF User Item DataFrame - After SVD Conversion](https://github.com/user-attachments/assets/f342b7bc-961b-4cea-b615-897199f43fb0)
 ![User to User Based SVD Colabrative Filtering Cosine Similarity](https://github.com/user-attachments/assets/269257aa-cb0d-4a3f-9375-28d019bd6059)
-User(254) Current Average Book Rating, Standard Dev: (0.024433771486981795, 0.27476619621377)
+
+# User(254) Current Average Book Rating, Standard Dev: (0.024433771486981795, 0.27476619621377)
 Predicted Z-score Rating for User(254) on Book(37244) "Pride and Prejudice Jane Austen" Based on Top(10) Similar Users ---> 0.3441698062429958
 Predicted Z-score Rating for User(254) on Book(31406) "To Kill a Mockingbird Harper Lee" Based on Top(10) Similar Users ---> 0.5661767373741514
 Predicted Z-score Rating for User(254) on Book(40809) "Plain Truth Jodi Picoult" Based on Top(10) Similar Users ---> -0.11804134545629512
