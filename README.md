@@ -1,7 +1,9 @@
 # SPECTaiCLE
 Virtualize your Library
 
+## Inital image
 ![Original Image](https://github.com/user-attachments/assets/94e37c51-99e9-41c5-96f9-e5d7b7205b81)
+## YOLOv11 Book Location Predictions
 ![Model Book Location Predictions](https://github.com/user-attachments/assets/9c8207fc-d1df-42e3-89ad-2c6d6b95d411)
 ## Search for Harry Potter
 ![Harry Potter](https://github.com/user-attachments/assets/e46bc801-5b66-46ba-829e-1826f9f5a0cc)
