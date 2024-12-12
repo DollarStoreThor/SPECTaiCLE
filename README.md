@@ -8,8 +8,8 @@ Virtualize your Library
 ![Steven King The Institute](https://github.com/user-attachments/assets/172c13ca-8f00-495a-9eb5-d2b8244632f3)
 
 
-
+# Reccomendation System
 ![User-Item Before SVD Conversions](https://github.com/user-attachments/assets/371a6d1b-c481-4f4a-896f-bbad09cea67c)
-![User to User Based SVD Colabrative Filtering Cosine Similarity](https://github.com/user-attachments/assets/269257aa-cb0d-4a3f-9375-28d019bd6059)
 ![UBCF User Item DataFrame - After SVD Conversion](https://github.com/user-attachments/assets/f342b7bc-961b-4cea-b615-897199f43fb0)
+![User to User Based SVD Colabrative Filtering Cosine Similarity](https://github.com/user-attachments/assets/269257aa-cb0d-4a3f-9375-28d019bd6059)
 ![Item to Item Based SVD Colabrative Filtering Cosine Similarity](https://github.com/user-attachments/assets/ed4962d2-1fa0-486b-b828-6cb375e1cfef)
